@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-entrega/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche de entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-entrega/) |
+| **Get License** | [License this song: Noche de entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-entrega/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, esta noche la ciudad es nuestra
+> Siento la química, la luz te muestra
+> Un ritmo salvaje, tú y yo sin freno
+> Bailando suave, saboreando el veneno
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
