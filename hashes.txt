@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de entrega
+
+This log tracks the cryptographic history and versioning for the song **Noche de entrega** (noche-de-entrega).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:06:47.018980 | `v1` | `e3b4d970e0aa833eb871ebcabd5a0f8f0173c3f1eac00cc4ee64636703a7fe0e` | `ce9b4839e021e32206d3e7a243a2784166ae54e503f2f92e2a7a80d59b76848c` | `2026-06-16_noche-de-entrega-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

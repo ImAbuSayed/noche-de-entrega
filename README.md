@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-entrega/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche de entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-entrega/) |
+| **Get License** | [Get License For Noche de entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-entrega/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e3b4d970e0aa833eb871ebcabd5a0f8f0173c3f1eac00cc4ee64636703a7fe0e` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
